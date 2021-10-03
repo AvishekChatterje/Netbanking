@@ -10,5 +10,6 @@ Starting of the Project, there are three workspaces provided by Netbanking:
 3. Customers
 
 **Working and Respsonsibilities of the Admin**
--Create bank account of customer who submitted form using offline methods
--
+
+- Creating bank accounts and filling up details of customers who applied through offline methods
+- 
